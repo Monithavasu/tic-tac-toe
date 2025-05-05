@@ -1,2 +1,2 @@
 # tic-tac-toe 
-this project is done using Css,Html,Javascript.
+this Full Stack java project is done using Css,Html,Javascript.
